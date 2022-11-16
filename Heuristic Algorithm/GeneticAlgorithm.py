@@ -1,8 +1,5 @@
-"""Practical_8_GA.ipynb
-
 # Implement Genetic Algorithm
 
-"""
 
 #!pip install deap
 
