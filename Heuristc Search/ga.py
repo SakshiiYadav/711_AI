@@ -1,4 +1,4 @@
-"""Practical_8_GA.ipynb
+"""    ga.ipynb
 
 # Implement Genetic Algorithm
 
